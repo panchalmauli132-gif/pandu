@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer decorative circle ring -->
+    <path
+        android:fillColor="#141622"
+        android:pathData="M54,12A42,42 0 1,0 54,96A42,42 0 1,0 54,12Z"
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2" />
+    <!-- Dynamic glowing inner accent -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M54,20A34,34 0 1,0 54,88A34,34 0 1,0 54,20Z"
+        android:fillAlpha="0.1" />
+    <!-- Shopping cart and ledger silhouette in safe 66dp zone -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M38,34 C36.9,34 36,34.9 36,36 C36,37.1 36.9,38 38,38 L42,38 L45.6,52.4 C46.1,54.4 47.9,55.8 50,55.8 L64,55.8 C66.1,55.8 67.9,54.4 68.4,52.4 L71.6,39.6 C71.9,38.4 71,37.2 69.8,37.2 L44.8,37.2 L43.8,34.2 C43.5,33.1 42.5,32.4 41.4,32.4 L38,34 Z" />
+    <!-- Cart Wheels -->
+    <path
+        android:fillColor="#9147FF"
+        android:pathData="M48,60 C46.3,60 45,61.3 45,63 C45,64.7 46.3,66 48,66 C49.7,66 51,64.7 51,63 C51,61.3 49.7,60 48,60 Z" />
+    <path
+        android:fillColor="#9147FF"
+        android:pathData="M62,60 C60.3,60 59,61.3 59,63 C59,64.7 60.3,66 62,66 C63.7,66 65,64.7 65,63 C65,61.3 63.7,60 62,60 Z" />
+</vector>

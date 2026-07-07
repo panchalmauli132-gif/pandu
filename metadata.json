@@ -1,0 +1,6 @@
+{
+  "name": "Order Collection App",
+  "description": "Production-ready, highly polished local-first Order Collection application featuring beautiful Material 3 theme, responsive layouts, orders, products, customers, payments, analytics, and PDF invoice generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
